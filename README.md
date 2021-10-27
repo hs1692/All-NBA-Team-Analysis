@@ -13,7 +13,7 @@ The League is largely star driven and it is important for teams to identify All-
    
    The data was collected from the official NBA Website using and API as well as the Basketball Reference site which collect stats for players going back many years. Individual player data was pulled for all seasons in their career and contained more than 30000 rows and 25 features. The data was filtered down to players who played into their third seasons for 3000 rows of data. The target variable was whether or not players were part fo the esteemed 15 best players in the 1st, 2nd, or 3rd All-NBA team. The data consisted of an unbalance target group since only 15 players are selected each seasons. 
    
-   
+![graph_revenue_genre](./Target.png) 
     
 # Results
 
