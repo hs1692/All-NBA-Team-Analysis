@@ -42,7 +42,15 @@ However, post 2000-2001 year shows different trend in positions selected for the
 
 Other important trends and factors were the importance of certain stats like Free Throw Attempts(FTA). Star players and the 15 best players in the NBA regularly attempted the most Free throws per game relatively to the rest of the league. As far as feature importance FTA were more important than just points in determining whether a player will be an All-Star. 
 
-The last important feature were the True Rebounding Percentage) TRB and (Defensive Rebound Percentage) DRB percentages. The particularly are the most important when looking aat Ceneters and PF and whether or not the will be ALL-NBA team eligible. 
+![graph_revenue_genre](./images/ftaclass.png)
 
-The best indicators of sucess were Poin Gaurds who shoot the most Free throw attempts and Centers who had the highest true rebounding percentage. 
+![graph_revenue_genre](./images/ftapos.png)
+
+The last important feature were the Total Rebounding Percentage) TRB and (Defensive Rebound Percentage) DRB percentages. The particularly are the most important when looking aat Ceneters and PF and whether or not the will be ALL-NBA team eligible.
+
+![graph_revenue_genre](./images/trbclass.png)
+
+![graph_revenue_genre](./images/trbpos.png)
+
+The best indicators of sucess were Point Gaurds who shoot the most Free throw attempts and Centers who had the highest true rebounding percentage. 
 
